@@ -1,0 +1,24 @@
+https://docs.djangoproject.com/en/4.2/intro/tutorial01/ 
+
+
+1. python3 -m pip install Django                         (instalar)
+
+2. python -m django --version                            (ver la version)
+
+3. django-admin startproject nombre-proyecto             (creacion del proyecto)
+
+4. python3 manage.py runserver                           (iniciar el servidor)
+
+5. python3 manage.py startapp nombre-de-la-app           (iniciar una aplicacion)
+
+
+
+
+https://docs.djangoproject.com/en/4.2/intro/tutorial02/
+
+
+python3 manage.py makemigrations  (Para crear las tablas en la base de datos)
+
+python3 manage.py migrate 
+
+python3 manage.py createsuperuser 
